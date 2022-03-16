@@ -3,7 +3,7 @@ let displayText = document.getElementById("display");
 var firstValue = "";
 var secondValue = "";
 var method = "";
-
+ 
 function myFunction(calcFunction){
     if(calcFunction != ""){
     //console.log(calcFunction);
